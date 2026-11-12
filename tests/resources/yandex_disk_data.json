@@ -1,0 +1,14 @@
+{
+    "initial_file": {
+        "name": "test.txt",
+        "expected_upload_status": 201
+    },
+    "renamed_file": {
+        "name_ending": ".jpg",
+        "expected_rename_status": 201,
+        "expected_overwrite_status": 201,
+        "expected_type_in_trash": "file",
+        "expected_restore_status": 201,
+        "expected_delete_status": 204
+    }
+}

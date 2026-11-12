@@ -1,0 +1,7 @@
+pydantic==2.10.6
+pytest==7.4.4
+colorlog==6.9.0
+requests==2.32.3
+selenium==4.24.0
+py_selenium_auto==0.4.7
+pillow==11.1.0
